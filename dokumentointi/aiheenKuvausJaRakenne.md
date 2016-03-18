@@ -1,6 +1,6 @@
 # Aiheen kuvaus ja rakenne
 
-**Aihe:** Perus tetris talentuvalla pistelistalla ja muutamalla vaihtoehtoisella asetuksella, kuten eri vaikeustasoilla.
+**Aihe:** Perus tetris talentuvalla pistelistalla ja muutamalla vaihtoehtoisella asetuksella, kuten eri vaikeustasoilla. Pelissä on tarkoitus pudottaa palikoita ja kerätä pisteitä täyttämällä rivejä vaakasuoraan.
 
 **Käyttäjät:** Pelaaja.
 
