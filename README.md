@@ -4,4 +4,3 @@ Klassikko tetrispeli ohjelmoinnin harjoitustyötä varten. Pelin tarkoituksena o
 **Dokumentointi:**
 [Aiheen kuvaus](dokumentointi/aiheenKuvausJaRakenne.md)
 [Tuntikirjanpio](dokumentointi/tuntikirjanpito.md)
-[Luokkakaavio](dokumentointi/luokkakaavio.png)
