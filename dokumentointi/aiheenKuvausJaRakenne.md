@@ -12,6 +12,5 @@
 * Palikan liikuttaminen, kääntäminen ja pudottaminen
 * Nimen lisääminen top-listaan
 	- Onnistuu ainoastaan, jos pelin pistemäärä on lopussa tarpeeksi suuri pääsemään listalle
-	- 
 	
 ![Luokkakaavio](dokumentointi/luokkakaavio.png)
