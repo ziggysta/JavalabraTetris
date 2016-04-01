@@ -13,4 +13,4 @@
 * Nimen lisääminen top-listaan
 	- Onnistuu ainoastaan, jos pelin pistemäärä on lopussa tarpeeksi suuri pääsemään listalle
 	
-[id]: https://github.com/ziggysta/JavalabraTetris/blob/master/dokumentointi/luokkakaavio.png  "Luokkakaavio"
+![Alt text](dokumentointi/luokkakaavio.png)
