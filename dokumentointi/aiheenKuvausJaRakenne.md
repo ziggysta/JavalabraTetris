@@ -13,4 +13,4 @@
 * Nimen lisääminen top-listaan
 	- Onnistuu ainoastaan, jos pelin pistemäärä on lopussa tarpeeksi suuri pääsemään listalle
 	
-![Luokkakaavio](dokumentointi/luokkakaavio.png)
+[Luokkakaavio](dokumentointi/luokkakaavio.png)
