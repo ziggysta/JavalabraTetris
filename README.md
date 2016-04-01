@@ -1,4 +1,4 @@
 # JavalabraTetris
 Tetrispeli ohjelmoinnin harjoitustyötä varten.
 
-[aiheen kuvaus](dokumentointi/aiheenKuvausJaMääritelmä.md)
+[aiheen kuvaus](dokumentointi/aiheenKuvausJaRakenne.md)
