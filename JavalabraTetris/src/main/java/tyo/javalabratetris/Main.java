@@ -10,5 +10,5 @@ package tyo.javalabratetris;
  * @author John
  */
 public class Main {
-    
+
 }

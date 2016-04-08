@@ -42,7 +42,7 @@ public class Kentta {
     public void setLaattaTrue(int a, int b) {
         kentta[a][b] = true;
     }
-    
+
     public void setLaattaFalse(int a, int b) {
         kentta[a][b] = false;
     }
@@ -50,13 +50,12 @@ public class Kentta {
     public boolean getLaattaBoolean(int a, int b) {
         return kentta[a][b];
     }
-    
+
     public int getKorkeus() {
         return korkeus;
     }
-    
+
     public int getLeveys() {
         return leveys;
     }
 }
-
