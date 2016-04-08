@@ -14,4 +14,4 @@
 	- Onnistuu ainoastaan, jos pelin pistemäärä on lopussa tarpeeksi suuri pääsemään listalle
 	
 
-![alt text](https://github.com/ziggysta/JavalabraTetris/blob/master/dokumentointi/luokkakaavio.png "Luokkakaavio")
+![alt text](https://github.com/ziggysta/JavalabraTetris/blob/master/dokumentointi/uusiluokkakaavio.png "Luokkakaavio")
