@@ -6,3 +6,5 @@ Klassikko tetrispeli ohjelmoinnin harjoitustyötä varten. Pelin tarkoituksena o
 [Aiheen kuvaus](dokumentointi/aiheenKuvausJaRakenne.md)
 
 [Tuntikirjanpio](dokumentointi/tuntikirjanpito.md)
+
+[Checkstyle-raportti](https://htmlpreview.github.io/?https://github.com/ziggysta/JavalabraTetris/blob/master/dokumentointi/Checkstyle/checkstyle.html)
