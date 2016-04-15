@@ -1,4 +1,4 @@
-package tyo.javalabratetris;
+package tyo.javalabratetris.logiikka;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -15,9 +15,8 @@ import static org.junit.Assert.*;
 
 import java.awt.Color;
 import org.junit.Assert;
-import tyo.javalabratetris.Kentta;
-
-import tyo.javalabratetris.Palikat;
+import tyo.javalabratetris.logiikka.Kentta;
+import tyo.javalabratetris.logiikka.Palikat;
 
 /**
  *

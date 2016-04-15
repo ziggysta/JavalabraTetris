@@ -1,7 +1,7 @@
-package tyo.javalabratetris;
+package tyo.javalabratetris.logiikka;
 
-import tyo.javalabratetris.Kentta;
-import tyo.javalabratetris.Palikat;
+import tyo.javalabratetris.logiikka.Kentta;
+import tyo.javalabratetris.logiikka.Palikat;
 
 import java.awt.Color;
 

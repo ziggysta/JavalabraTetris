@@ -1,4 +1,4 @@
-package tyo.javalabratetris;
+package tyo.javalabratetris.logiikka;
 
 import org.junit.After;
 import org.junit.AfterClass;
@@ -6,9 +6,9 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import static org.junit.Assert.*;
-import tyo.javalabratetris.Kentta;
-import static tyo.javalabratetris.Kentta.korkeus;
-import static tyo.javalabratetris.Kentta.leveys;
+import tyo.javalabratetris.logiikka.Kentta;
+import static tyo.javalabratetris.logiikka.Kentta.korkeus;
+import static tyo.javalabratetris.logiikka.Kentta.leveys;
 import java.util.Random;
 
 public class KenttaTest {
